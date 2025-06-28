@@ -9,7 +9,7 @@
 I'm a dedicated data science student passionate about turning data into actionable insights. I thrive on exploring new technologies and building projects that challenge my problem-solving skills.
 
 - 🎓 Currently studying Data Science
-- 🐍 Skilled in Python and SQL
+- 🐍 Skilled in Python, SQL, Excel and PowerBI
 - 🎯 Creator of a Wordle-type game, built from scratch
 - 🎱 Outside of coding and learning, I enjoy playing pool
 
@@ -26,6 +26,7 @@ I'm a dedicated data science student passionate about turning data into actionab
 
 - Python (Data analysis, scripting, game development)
 - SQL (Data querying, database management)
+- Power BI (Dashboards, DAX, Power Query)
 - Data Science (Statistics, machine learning basics, visualization)
 - Problem-solving & analytical thinking
 
