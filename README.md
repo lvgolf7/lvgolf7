@@ -15,10 +15,13 @@ I'm a dedicated data science student passionate about turning data into actionab
 
 ---
 
-**Featured Project**
+**Featured Projects**
 
 - **Wordle-Type Game**  
   Developed a custom word-guessing game inspired by Wordle, showcasing my abilities in Python programming, logic design, and user experience.
+
+- **Sudoku Solver**
+  Developed a sudoku solver that uses breadth first search to check every solution available.  Showcases my understanding of graph transversal algorithms.
 
 ---
 
