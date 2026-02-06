@@ -25,6 +25,13 @@ I'm a dedicated data science student passionate about turning data into actionab
 
 ---
 
+**Certifications**
+
+- Microsoft Certified: Power BI Data Analyst Associate
+- CompTIA IT Fundamentals (ITF+) 
+
+---
+
 **Skills**
 
 - Python (Data analysis, scripting, game development)
